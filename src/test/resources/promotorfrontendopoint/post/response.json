@@ -1,0 +1,27 @@
+{
+    "nombre": "Antonio",
+    "primerApellido": "Sampayo",
+    "segundoApellido": "Vargas",
+    "correoElectronico": "antonio.sampayo@softtek.com",
+    "telefono": "5545334567",
+    "sexo": null,
+    "edad": null,
+    "nss": null,
+    "grupoFamiliar": null,
+    "curp": "SAVA790909HDFMRN27",
+    "delegacion": null,
+    "subDelegacion": null,
+    "entidadFederativa": null,
+    "cuentaClabe": null,
+    "id": 1,
+    "numEmpleado": "98765432",
+    "cveCurp": "SAVA790909HDFMRN27",
+    "cveEntidadFinanciera": 8,
+    "entidadFinanciera": {
+        "id": 8,
+        "nombreComercial": "Banco Multiva",
+        "razonSocial": "Banco Multiva S.A. Institución de Banca Múltiple",
+        "numTelefono": null,
+        "paginaWeb": "www.multiva.com.mx"
+    }
+}
